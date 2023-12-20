@@ -223,7 +223,7 @@ margin: 20px 0px;
     width:125px;
     padding: 15px;
     border-radius: 20px;
-
+    transition: 100ms ease-in;
 }
 .category:hover{
     box-shadow: inset rgba(197, 195, 195, 0.856) 0px 0px 60px -12px;
